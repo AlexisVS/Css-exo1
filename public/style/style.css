@@ -1,0 +1,22 @@
+/* ------------------------------- Typography ------------------------------- */
+.text-red{
+    color: red;
+}
+.text-blue {
+    color: blue;
+}
+.text-large {
+    font-size: 3rem;
+    font-weight: bold;
+}
+.underline {
+    text-decoration: underline;
+}
+.italic {
+    font-style: italic;
+}
+
+/* ------------------------------- Background ------------------------------- */
+.bg-red {
+    background-color: red;
+}
